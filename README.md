@@ -22,7 +22,7 @@ I'm an **innovative software developer** with a focus on **web development**. I 
 ## 📈 GitHub Stats
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shehanm95&show_icons=true&theme=cobalt" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?shehanm95=yourusername&layout=compact&theme=cobalt" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanm95&layout=compact&theme=cobalt" />
 </p>
 
 ## 🔥 Recent Activity
