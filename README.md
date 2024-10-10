@@ -14,15 +14,15 @@ I'm an **innovative software developer** with a focus on **web development**. I 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shehanm95&show_icons=true&theme=cobalt" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?shehanm95=yourusername&layout=compact&theme=cobalt" />
 </p>
 
 ## 🔥 Recent Activity
@@ -33,6 +33,6 @@ I'm an **innovative software developer** with a focus on **web development**. I 
 <!--END_SECTION:activity-->
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shehan%20Maleesha-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shehan%20Maleesha-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/shehan-maleesha-017a89261/))
+[![Website](https://img.shields.io/badge/Website-Shehan%20Maleesha-4E8C2E?style=for-the-badge&logo=about.me)](https://shehanm95.github.io/shehan.com/)
 
