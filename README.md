@@ -33,6 +33,8 @@ I'm an **innovative software developer** with a focus on **web development**. I 
 <!--END_SECTION:activity-->
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shehan%20Maleesha-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/shehan-maleesha-017a89261/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shehan%20Maleesha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shehan-maleesha-017a89261/)
 [![Website](https://img.shields.io/badge/Website-Shehan%20Maleesha-4E8C2E?style=for-the-badge&logo=about.me)](https://shehanm95.github.io/shehan.com/)
-
+[![Play Store](https://img.shields.io/badge/Play%20Store-Shehan%20Maleesha-3DDC84?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/dev?id=4845380326082321253)
+[![YouTube](https://img.shields.io/badge/YouTube-Shehan%20Maleesha-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCpH_c0vdcc4hldc22ilMVgg)
+[![GitHub](https://img.shields.io/badge/GitHub-Shehan%20Maleesha-181717?style=for-the-badge&logo=github)](https://github.com/shehanm95)
