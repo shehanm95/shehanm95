@@ -1,6 +1,6 @@
 # Hi, I'm Shehan Maleesha 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=shehanm95&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌟 About Me
 I'm an **innovative software developer** with a focus on **web development**. I work with modern front-end and back-end technologies to build scalable and robust applications. Although I've created a few games using Unity, my passion lies in web development, and I enjoy crafting clean and efficient code.
